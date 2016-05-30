@@ -1,3 +1,22 @@
+1.0.1 / 2016-04-01
+------------------
+
+- Added dictionary support. Thanks to @dignifiedquire.
+
+
+1.0.0 / 2016-02-17
+------------------
+
+- Maintenance release (semver, coding style).
+
+
+0.2.8 / 2015-09-14
+------------------
+
+- Fixed regression after 0.2.4 for edge conditions in inflate wrapper (#65).
+  Added more tests to cover possible cases.
+
+
 0.2.7 / 2015-06-09
 ------------------
 
