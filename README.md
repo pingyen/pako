@@ -1,8 +1,10 @@
-pako - zlib port to javascript, very fast!
+pako
 ==========================================
 
 [![Build Status](https://travis-ci.org/nodeca/pako.svg?branch=master)](https://travis-ci.org/nodeca/pako)
 [![NPM version](https://img.shields.io/npm/v/pako.svg)](https://www.npmjs.org/package/pako)
+
+> zlib port to javascript, very fast!
 
 __Why pako is cool:__
 
@@ -22,7 +24,7 @@ __Famous projects, using pako:__
 - [mincer](https://github.com/nodeca/mincer)
 - [JS-Git](https://github.com/creationix/js-git) and
   [Tedit](https://chrome.google.com/webstore/detail/tedit-development-environ/ooekdijbnbbjdfjocaiflnjgoohnblgf)
-  by [@creatronix](https://github.com/creationix)
+  by [@creationix](https://github.com/creationix)
 
 
 __Benchmarks:__
@@ -177,4 +179,5 @@ Original implementation (in C):
 License
 -------
 
-MIT
+- MIT - all files, except `/lib/zlib` folder
+- ZLIB - `/lib/zlib` content

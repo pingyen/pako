@@ -1,3 +1,15 @@
+1.0.7 / 2018-11-29
+------------------
+
+- Fixed RangeError in Crome 72, #150.
+
+
+1.0.6 / 2017-09-14
+------------------
+
+- Improve @std/esm compatibility.
+
+
 1.0.5 / 2017-03-17
 ------------------
 
@@ -81,7 +93,7 @@
 0.2.2 / 2014-06-04
 ------------------
 
-- Fixed iOS 5.1 Safary issue with `apply(typed_array)`, #26.
+- Fixed iOS 5.1 Safari issue with `apply(typed_array)`, #26.
 
 
 0.2.1 / 2014-05-01
